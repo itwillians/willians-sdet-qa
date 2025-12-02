@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Willians — Software Engineer in Test
+# 👋 Hi, I'm Willians — Software Development Engineer in Test / QA Engineer
 
 I build clean, scalable, and maintainable **test automation** for modern Web and API applications.  
 Focused on engineering excellence, automation strategy, and delivering high-quality software for global teams.
